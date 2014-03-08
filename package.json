@@ -1,0 +1,23 @@
+{
+  "name": "metasmith",
+  "version": "0.0.1",
+  "description": "Metalsmith.json scaffolder",
+  "main": "index.js",
+  "preferGlobal": "true",
+  "bin": {
+    "metasmith": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "metalsmith",
+    "scaffolder"
+  ],
+  "author": "Fabrice Weinberg",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^0.4.1",
+    "chalk": "^0.4.0"
+  }
+}
